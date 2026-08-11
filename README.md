@@ -3,7 +3,7 @@
 A student interested in embedded systems,
 computer vision, edge AI, autonomous systems and electronics.
 
-## Selected Projects
+## Major Projects Completed
 
 ### Low-Latency Active Object Tracker
 NVIDIA Jetson Orin Nano Super, YOLO11n, ByteTrack, TensorRT,
