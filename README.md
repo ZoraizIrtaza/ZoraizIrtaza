@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Zoraiz Irtaza
 
-<!--
-**ZoraizIrtaza/ZoraizIrtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A student interested in embedded systems,
+computer vision, edge AI, autonomous systems and electronics.
 
-Here are some ideas to get you started:
+## Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Low-Latency Active Object Tracker
+NVIDIA Jetson Orin Nano Super, YOLO11n, ByteTrack, TensorRT,
+Arduino and servo-based closed-loop camera control.
+
+### Autonomous Navigation & Color-Sorting Robot
+Arduino-based autonomous robot integrating ultrasonic navigation,
+IR line sensing, color detection, object manipulation and package delivery.
+
+### Farming Assistance Robot
+Autonomous agricultural robot combining feedback-controlled navigation,
+soil-moisture sensing, environmental monitoring and servo-actuated crop inspection.
+
+### IoT Home Automation & Monitoring System
+ESP8266/Arduino system for environmental sensing, motion and smoke alerts,
+automatic lighting and Blynk IoT telemetry.
+
+## Interests
+
+- Electrical Engineering
+- Robotics
+- Embedded Systems
+- Computer Vision
+- Edge AI
+- Autonomous Systems
